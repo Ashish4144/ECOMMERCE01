@@ -15,9 +15,7 @@ An advanced full-stack E-Commerce application built using the **MERN** stack wit
 ✅ User authentication (Signup/Login with JWT)  
 ✅ Product listing and filtering  
 ✅ Shopping cart functionality  
-✅ Secure checkout with payment integration (Stripe/PayPal)  
 ✅ Order management for users and admins  
-✅ Responsive and mobile-friendly UI  
 ✅ Admin dashboard for product & order management  
 
 ### 🛠 Tech Stack  
@@ -25,8 +23,7 @@ An advanced full-stack E-Commerce application built using the **MERN** stack wit
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB (Mongoose)  
 - **Authentication:** JWT  
-- **Payments:** Stripe / PayPal  
-- **State Management:** Redux (if used)  
+- **State Management:** Redux 
 
 ### 📥 Installation & Setup  
 
